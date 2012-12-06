@@ -1,0 +1,13 @@
+{
+  "name": "json",
+  "repo": "ForbesLindesay/json",
+  "description": "JSON polyfill, just put `var JSON = require('json')` at the start of your scripts.",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
