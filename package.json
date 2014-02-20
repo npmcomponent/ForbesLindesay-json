@@ -1,0 +1,8 @@
+{
+  "name": "forbeslindesay-json",
+  "description": "JSON polyfill, just put `var JSON = require('json')` at the start of your scripts.",
+  "version": "1.0.2",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
